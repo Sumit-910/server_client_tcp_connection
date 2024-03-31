@@ -9,7 +9,9 @@ This project consists of two programs, a TCP server (`server`) and a TCP client 
 To get started with this project, you can clone the repository from GitHub. Open a terminal and run the following command:
 
 ```sh
-git clone <repository_url>
+git clone https://github.com/Sumit-910/server_client_tcp_connection.git
+cd server_client_tcp_connection
+```
 
 
 ## Usage
